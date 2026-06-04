@@ -1,0 +1,67 @@
+export const testimonials = [
+  {
+    id: 1,
+    name: "James Whitfield",
+    location: "Sydney, Australia",
+    role: "Software Engineer",
+    image:
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&q=80",
+    rating: 5,
+    before: "98 kg",
+    after: "74 kg",
+    duration: "6 months",
+    text: "Iron Forge completely changed my life. I lost 24kg in 6 months, gained serious muscle and for the first time in years actually enjoy going to the gym. The trainers here are world-class — Marcus pushed me beyond what I ever thought possible.",
+  },
+  {
+    id: 2,
+    name: "Priya Menon",
+    location: "Melbourne, Australia",
+    role: "Marketing Director",
+    image:
+      "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=150&q=80",
+    rating: 5,
+    before: "72 kg",
+    after: "58 kg",
+    duration: "4 months",
+    text: "I've tried a dozen gyms over the years and nothing compares to the experience at Iron Forge. Sophia's personalised nutrition plan combined with her training program gave me results I thought were impossible after having two kids.",
+  },
+  {
+    id: 3,
+    name: "Tom Archer",
+    location: "London, UK",
+    role: "Architect",
+    image:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&q=80",
+    rating: 5,
+    before: "82 kg",
+    after: "91 kg",
+    duration: "8 months",
+    text: "I came in as a skinny guy wanting to bulk up properly. Eight months later I've put on 9kg of lean muscle and my deadlift went from 80kg to 180kg. The programming at Iron Forge is genuinely elite level.",
+  },
+  {
+    id: 4,
+    name: "Jessica Park",
+    location: "Toronto, Canada",
+    role: "Physiotherapist",
+    image:
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&q=80",
+    rating: 5,
+    before: "N/A",
+    after: "N/A",
+    duration: "Ongoing",
+    text: "As a physio I'm extremely selective about training facilities. Iron Forge's approach to injury prevention and movement quality is genuinely impressive. Natalie's mobility sessions have become non-negotiable for me.",
+  },
+  {
+    id: 5,
+    name: "Ryan O'Brien",
+    location: "Dublin, Ireland",
+    role: "Firefighter",
+    image:
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&q=80",
+    rating: 5,
+    before: "105 kg",
+    after: "88 kg",
+    duration: "5 months",
+    text: "Damien's conditioning program is the closest thing to military training I've experienced since the service. My job performance improved dramatically and I feel 10 years younger. Absolutely world class.",
+  },
+];
