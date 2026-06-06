@@ -1,16 +1,152 @@
-# React + Vite
+# 🏋️ Iron-Forge-Fitness Gym Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and visually engaging gym website built using **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://your-vercel-link.vercel.app
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
 
-## Expanding the ESLint configuration
+- Modern and responsive design
+- Premium dark-themed UI
+- Smooth animations with Framer Motion
+- Hero section with CTA
+- Gym statistics section
+- Training programs
+- Professional trainer profiles
+- Membership plans
+- BMI Calculator
+- Testimonials
+- FAQ Section
+- Contact Form
+- WhatsApp Contact Button
+- Mobile-Friendly Layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+
+### Libraries
+- React Icons
+- React Intersection Observer
+
+---
+
+## 📂 Project Structure
+
+```bash
+gym-website/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Stats.jsx
+│   │   ├── Programs.jsx
+│   │   ├── Trainers.jsx
+│   │   ├── Membership.jsx
+│   │   ├── Testimonials.jsx
+│   │   ├── FAQ.jsx
+│   │   ├── Contact.jsx
+│   │   └── Footer.jsx
+│   │
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/gym-website.git
+```
+
+### Navigate to project folder
+
+```bash
+cd gym-website
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start development server
+
+```bash
+npm run dev
+```
+
+### Build for production
+
+```bash
+npm run build
+```
+
+### Preview production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 🎯 Learning Objectives
+
+This project helped in learning:
+
+- React Component Architecture
+- Tailwind CSS Styling
+- Responsive Design
+- UI/UX Principles
+- Framer Motion Animations
+- Real-World Landing Page Development
+- Deployment with Vercel
+
+---
+
+
+
+---
+
+## 👨‍💻 Author
+
+**Vishal Raj**
+
+GitHub: https://github.com/vishalrj291
+
+
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a star on GitHub.
+
+---
+
+## 📄 License
+
+This project is created for educational and portfolio purposes.
