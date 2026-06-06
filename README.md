@@ -4,7 +4,7 @@ A modern, responsive, and visually engaging gym website built using **React**, *
 
 ## 🚀 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://iron-forge-fitness-sand.vercel.app/
 
 ---
 
@@ -78,7 +78,7 @@ gym-website/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/gym-website.git
+git clone https://github.com/vishalrj291/Iron-Forge-Fitness.git
 ```
 
 ### Navigate to project folder
