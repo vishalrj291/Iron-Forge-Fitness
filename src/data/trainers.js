@@ -39,8 +39,8 @@ export const trainers = [
     certifications: ["ACSM-CPT", "CF-L2", "TRX Certified"],
     speciality: "Metabolic Conditioning & HIIT",
     bio: "Ex-professional rugby player with a passion for functional fitness. Damien's high-energy sessions have helped hundreds achieve peak athletic performance.",
-    image:
-      "https://www.vecteezy.com/free-photos/gym-trainer",
+    image: 
+      "https://images.unsplash.com/photo-1594381898411-846e7d193883?w=500&q=80",
     instagram: "#",
     twitter: "#",
     linkedin: "#",
